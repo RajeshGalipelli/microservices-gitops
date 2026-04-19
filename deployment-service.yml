@@ -445,7 +445,7 @@ spec:
   selector:
     matchLabels:
       app: loadgenerator
-  replicas: 6
+  replicas: 1
   template:
     metadata:
       labels:
